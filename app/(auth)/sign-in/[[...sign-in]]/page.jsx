@@ -74,8 +74,7 @@ export default function Page() {
               </h1>
 
               <p class="mt-4 leading-relaxed text-gray-500 dark:text-gray-400">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Eligendi nam dolorum aliquam, quibusdam aperiam voluptatum.
+              Practice with mock interviews and receive detailed feedback to understand where you stand.
               </p>
             </div>
             <div className="h-12">
